@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 45f6d6314d0af6348abf3559815b3401
+guid: 3f31316f70c65e742af59984bc14e9f1
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/SnowPiles/SnowLine_v2.prefab
-  uploadId: 326334

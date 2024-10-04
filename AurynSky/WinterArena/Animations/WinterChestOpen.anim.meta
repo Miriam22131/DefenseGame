@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: 4714a0cfc946a7042b77abd634a1a879
+guid: f405f3a066b6a674e992eb426ca943b0
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 7400000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Animations/WinterChestOpen.anim
-  uploadId: 326334

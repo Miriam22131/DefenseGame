@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: e4339b6f90f698949a760fe395d3c983
+guid: 451d54c8299f4ee48a1c9637c6829ac3
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 2100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Materials/ShowCaseMaterial.mat
-  uploadId: 326334

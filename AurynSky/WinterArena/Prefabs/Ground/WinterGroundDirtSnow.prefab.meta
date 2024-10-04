@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 263e1010ccdb64b48a7d9fe9a570589f
+guid: 35024708cb0a6874f9d824f07044891e
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/Ground/WinterGroundDirtSnow.prefab
-  uploadId: 326334

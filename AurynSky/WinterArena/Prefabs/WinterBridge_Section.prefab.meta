@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 381ac0576f313884f9fd57cdbc0b44fa
+guid: 6ee07d5b5308a0943824ec164b7beeb7
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/WinterBridge_Section.prefab
-  uploadId: 326334

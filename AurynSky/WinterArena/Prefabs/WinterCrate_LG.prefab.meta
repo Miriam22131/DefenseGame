@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 1ce2ab11f64c7334e9260fb81ac10a90
+guid: 4d339859b913b904596e012ccf12a3a1
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/WinterCrate_LG.prefab
-  uploadId: 326334

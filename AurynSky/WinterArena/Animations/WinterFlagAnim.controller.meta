@@ -1,15 +1,8 @@
 fileFormatVersion: 2
-guid: ba2239360cbdcf549a4712fad6a16f06
+guid: b42bb8b39c9b6f6429e71d97ef756a49
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 9100000
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Animations/WinterFlagAnim.controller
-  uploadId: 326334

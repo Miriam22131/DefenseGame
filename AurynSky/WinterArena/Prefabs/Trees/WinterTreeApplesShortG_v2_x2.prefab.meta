@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 13ff1faf1d57ea54d9ed28cbc5550539
+guid: d21aff9afe859f34391f05c5b302edb7
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/Trees/WinterTreeApplesShortG_v2_x2.prefab
-  uploadId: 326334

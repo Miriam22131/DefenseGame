@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: ed488ac10aefc794eb9d16dd3719e791
+guid: f967f2b1a34bec54cae3623c35a64584
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 150432
-  packageName: Winter Forest - Low Poly Toon Battle Arena / Tower Defense Pack
-  packageVersion: 1.1
-  assetPath: Assets/AurynSky/WinterArena/Prefabs/Smoke.prefab
-  uploadId: 326334
